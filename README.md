@@ -51,5 +51,4 @@ Transformer architectures (FinBERT, Longformer) for financial NLP · Time-aware 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umair--abowath-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/umair-abowath-0508b0b4/)
-[![Email](https://img.shields.io/badge/Email-umairabowath%40gmail.com-red?style=flat&logo=gmail)](mailto:umairabowath@gmail.com)
 [![arXiv](https://img.shields.io/badge/arXiv-2503.01886-b31b1b?style=flat)](https://arxiv.org/abs/2503.01886)
