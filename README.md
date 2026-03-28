@@ -1,11 +1,11 @@
 # Umair Zakir Abowath
 
-**Principal Data Scientist & AI Architect** · Arlington, VA  
+**Principal Data Scientist & AI Architect** · VA, USA  
 MS Analytics (Computational) · Georgia Institute of Technology  
 BS Electrical Engineering · Lahore University of Management Sciences  
 8 years building production ML systems at enterprise scale
 
-I design and ship applied AI solutions, from agentic LLM workflows to deep learning research, with a focus on measurable business impact in **finance** and **healthcare**.
+I design and ship applied AI solutions, from agentic LLM workflows to deep learning research, with a focus on measurable business impact in sectors such as **finance** and **healthcare**.
 
 ---
 
